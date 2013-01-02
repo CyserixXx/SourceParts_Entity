@@ -2,8 +2,7 @@
 /* If you are missing that file, acquire a complete release at teeworlds.com.                */
 #include <game/generated/protocol.h>
 #include <game/server/gamecontext.h>
-#include "controlled-grenade.h"
-#include "healther.h"
+#include "controlled-laser.h"
 
 /////////////////////////////////////
 //                                 //
